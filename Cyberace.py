@@ -1,6 +1,6 @@
 #=============================================================
 #   Please, don't delete this text
-#   Cyberace V1.0
+#   Cyberace V1.01
 #   https://github.com/kikimori-dev
 #   made by kikimori in 2026
 #=============================================================
@@ -59,7 +59,7 @@ def story():
     print("You came here, and you weren't leaving without a victory.")
     menu()
 def end():
-    print("After you conquered the peak, you wanted more. Who knows, maybe you'll conquer the peak not just of your city...")
+    print("After you conquered the peak, you wanted more.")
     print("You decided to try your hand at racing across the wastelands destroyed by nuclear weapons.")
     print("Who knows, maybe you'll conquer the peak not just of your city...")
     print("The end. #made by kikimori in 2026")
